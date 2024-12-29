@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+mpld3
+ydata-profiling
+xgboost
+scikit-learn
+joblib
