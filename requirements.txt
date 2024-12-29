@@ -6,7 +6,7 @@ seaborn
 networkx
 mpld3
 ydata-profiling==4.12.1
-xgboost
+xgboost==1.6.2
 scikit-learn
 joblib
 setuptools
