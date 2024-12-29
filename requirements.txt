@@ -9,3 +9,4 @@ ydata-profiling
 xgboost
 scikit-learn
 joblib
+pkg_resources
